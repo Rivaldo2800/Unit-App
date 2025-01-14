@@ -1,6 +1,6 @@
 # unit_app_flutter
 
-A new Flutter project.
+A new Flutter project, a unit converter application.
 
 ## Getting Started
 
